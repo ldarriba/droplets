@@ -27,12 +27,12 @@ advantatges:
 
 - It is easy to export as pdf or html, and can be visualized in nearly any platform.
 - It can be easily shared and visualized in Github.
-- It naturally contains the results and the logic followed to obtain them, as already seen in the previous [chapter](jupyter.md)
+- It naturally contains the results and the logic followed to obtain them, as already seen in the previous [chapter](jupyter.md).
 - You can seamlessly match explanations, code and results in a continuous narrative.
 - You can easily update them, add or remove content or make small changes.
 - It can *explicitly* show the full process of your science.
 
-You can even write whole books in Github (see [Other resources](#other-resources)
+You can even write whole books in Github (see [Other resources](#other-resources)).
 
 
 <h3>Objectives and scope</h3>
@@ -106,7 +106,7 @@ It is always a good idea to have a README.md file in each repository, it will be
  - What you are doing, for who, and why.
  - What makes your project special and exciting.
  - How to get started.
- - Where to find key resources
+ - Where to find key resources.
 
 We will practise how to make changes to a file with the README.md file.
 
@@ -169,5 +169,5 @@ This can be opened from any browser, including mobile phones with very good qual
 
 - You can even write books on Github! For example [Full book](https://jakevdp.github.io/PythonDataScienceHandbook/) and the Github [repository](https://github.com/jakevdp/PythonDataScienceHandbook).
 - You can even write papers on Github! [Mutiband Lomb-Scargle Periodograms](http://jakevdp.github.io/multiband_LS/). In this example, the author even received feedback from a world expert on the topic as a Github [issue](https://github.com/jakevdp/multiband_LS/issues/1) while writing the paper. Check this talk explaining the experience [In Defense of Extreme Openness](https://zenodo.org/record/49577)
-- To learn more: [Github Guides](https://guides.github.com/)
-- You can also write and host your personal webpage in Github: [examples](https://github.com/topics/personal-website)
+- To learn more: [Github Guides](https://guides.github.com/).
+- You can also write and host your personal webpage in Github: [examples](https://github.com/topics/personal-website).
